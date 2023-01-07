@@ -1,2 +1,2 @@
 # Shorlty-FM
-**Note:** Functionality yet to be added
+Live: [Preview](https://chugilc.github.io/Shortly-FM/)
